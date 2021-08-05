@@ -21,6 +21,7 @@
 </div>
   
   ##
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://media.discordapp.net/attachments/617159822932049920/872827652707348560/94097_oznTsA6B.png">
  
 <div> 
   <a href="https://instagram.com/lalu_avelino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
