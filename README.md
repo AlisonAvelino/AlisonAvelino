@@ -18,11 +18,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/AlisonAvelino/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/AlisonAvelino/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/AlisonAvelino/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <!--<img height="180em" align="right" alt="Rafa-Csharp" height="30" width="40" src="https://media.discordapp.net/attachments/617159822932049920/872827652707348560/94097_oznTsA6B.png">-->
+ <img align="right" alt="Rafa-yoda" height="150" width="150" src="https://media.discordapp.net/attachments/617159822932049920/872835553102557194/tenor_1.gif">
+
 </div>
   
   ##
-
  
 <div> 
   <a href="https://instagram.com/lalu_avelino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
