@@ -3,8 +3,8 @@
 - 🌱 Estudando Angular e Java
 - 📚 Bacharelando Sistemas de Informação
 - 🎓 Formado Técnico em Informática(2018)
-- 🎯Portifólio:
-Gerenciador de tarefas: https://gerenciador-tarefas-caa68.web.app
+- 🎯Portifólio: <br><br>
+Gerenciador de tarefas: https://gerenciador-tarefas-caa68.web.app<br>
 Página pessoal simples: https://pagina-pessoal-1d02f.web.app/
 
  <div>
