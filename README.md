@@ -5,6 +5,7 @@
 - 🎓 Formado Técnico em Informática(2018)
 - 🎯Portifólio: <br><br>
 Gerenciador de tarefas: https://gerenciador-tarefas-caa68.web.app<br>
+Bugiganga Store: https://bugiganga-store.web.app/<br>
 Página pessoal simples: https://pagina-pessoal-1d02f.web.app/<br>
 DockerHub: https://hub.docker.com/u/alisonavelino
 
