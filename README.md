@@ -35,7 +35,7 @@ DockerHub: https://hub.docker.com/u/alisonavelino
 <img align="right" src="https://profile-counter.glitch.me/{Alison-Avelino}/count.svg" alt="alisonavelino :: Visitor's Count" />
 
   <a href="https://instagram.com/lalu_avelino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/punisheryoung" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/avell_fps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alison-avelino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    ![Snake animation](https://github.com/AlisonAvelino/AlisonAvelino/blob/output/github-contribution-grid-snake.svg)
